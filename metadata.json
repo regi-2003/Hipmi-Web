@@ -1,0 +1,6 @@
+{
+  "name": "BPC HIPMI Kabupaten Bandung",
+  "description": "Portal Resmi dan Environment System BPC HIPMI Kabupaten Bandung — Wadah Kolaborasi Pengusaha Muda, Direktori Bisnis, dan Ekosistem Konser Wirausaha Jawa Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
